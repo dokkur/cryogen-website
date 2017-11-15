@@ -1,0 +1,8 @@
+
+.icon-clock:before { content: '\e800'; } /* '' */
+.icon-globe:before { content: '\e801'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-bitcoin:before { content: '\f15a'; } /* '' */
+.icon-paper-plane:before { content: '\f1d8'; } /* '' */
+.icon-telegram:before { content: '\f2c6'; } /* '' */
